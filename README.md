@@ -1,3 +1,5 @@
+[View the source on GitHub](https://github.com/MattZack15/riftformat-tools)
+
 # Riftformat Tools
 
 This repository is a prototype built to demonstrate the intention of the Riftformat Tools project. It currently uses the community RiftScribe API, and the end goal is to replace it with the official Riot API for Riftbound.
